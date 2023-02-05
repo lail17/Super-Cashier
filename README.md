@@ -22,7 +22,7 @@ b.	Menghapus semuanya data transaksi
 
 # Flowchart
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/124485986/216821516-bcf99723-720a-4c87-86df-940131b83f6a.png)
 
 
 
@@ -50,9 +50,9 @@ b.	Menghapus semuanya data transaksi
 
 - `total_price(self):`  Fungsi untuk menghitung total belanja yang harus dibayar. 
     Dengan memberikan diskon dengan ketentuan:
-        a. Jika total belanja customer di atas Rp200.000 maka akan mendapatkan diskon 5%
-        b. Jika total belanja customer di atas Rp300.000 maka akan mendapatkan diskon 8%
-        c. Jika total belanja customer di atas Rp500.000 maka akan mendapatkan diskon 10% 
+    - Jika totalbelanja di atas Rp200.000 maka akan mendapatkan diskon 5%.
+    - Jika totalbelanja di atas Rp300.000 maka akan mendapatkan diskon 8%.
+    - Jika totalbelanja di atas Rp500.000 maka akan mendapatkan diskon 10%. 
 
 
 
