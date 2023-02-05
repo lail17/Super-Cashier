@@ -65,26 +65,28 @@ b.	Menghapus semuanya data transaksi
 #### Test 1:
 Customer ingin menambahkan dua item dengan method `add_item()` kemudian mencetak list data yang sudah masuk dengan `print_item()`
 
-![image-2.png](attachment:image-2.png)
+![image](https://user-images.githubusercontent.com/124485986/216821772-794df4cb-7b21-4c15-979a-a3cedc0cbd01.png)
 
-![image-3.png](attachment:image-3.png)
+![image](https://user-images.githubusercontent.com/124485986/216821804-aefc14af-28f1-4458-9984-b6519650bff7.png)
+
 
 #### Test 2:
 Customer salah membeli barang, sehingga ingin menghapus item "Pasta Gigi" dengan method `delete_item()`
 
-![image-4.png](attachment:image-4.png)
+![image](https://user-images.githubusercontent.com/124485986/216821828-806168e5-2e19-4dfe-b3e5-f5e268a46bf4.png)
+
 
 #### Test 3:
 Ternyata customer salah memasukkan semua item yang ingin dibelanjakan, sehingga customer ingin menghapus semua data transaksi yang masuk dengan method `reset_transaction()`
 
-![image-5.png](attachment:image-5.png)
+![image](https://user-images.githubusercontent.com/124485986/216821855-73e1dd93-10bc-441e-ac2d-a27e60bdd862.png)
 
 #### Test 4:
 Customer menginput kembali item-item yang ingin dibeli, kemudian akan menghitung semua total belanja yang harus dibayar dengan method `total_price()`
 
-![image-6.png](attachment:image-6.png)
+![image](https://user-images.githubusercontent.com/124485986/216821904-fa6ffc5f-8977-4123-b477-fbf2a1f81852.png)
 
-![image-7.png](attachment:image-7.png)
+![image](https://user-images.githubusercontent.com/124485986/216821934-d58ea3c6-76a9-440d-bd41-ebb7fa4bb2a4.png)
 
 # Conclution
 
