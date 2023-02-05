@@ -16,9 +16,9 @@ a.	Menghapus salah satu item
 b.	Menghapus semuanya data transaksi
 5.	Melakukan pengecekan terhadap data transaksi.
 6.	Menghitung total belanja dengan ketentuan diskon sebagai berikut:
-a.	Jika totalbelanja di atas Rp200.000 maka akan mendapatkan diskon 5%.
-b.	Jika totalbelanja di atas Rp300.000 maka akan mendapatkan diskon 8%.
-c.	Jika totalbelanja di atas Rp500.000 maka akan mendapatkan diskon 10%.
+    - Jika totalbelanja di atas Rp200.000 maka akan mendapatkan diskon 5%.
+    - Jika totalbelanja di atas Rp300.000 maka akan mendapatkan diskon 8%.
+    - Jika totalbelanja di atas Rp500.000 maka akan mendapatkan diskon 10%.
 
 # Flowchart
 
