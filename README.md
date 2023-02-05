@@ -4,16 +4,15 @@ Andi adalah seorang pemilik supermarket besar di salah satu kota di Indonesia. A
 
 # Feature Requirements
 
-1.	Membuat ID transaksi
-Membuat ID transaksi dilakukan dengan membuat object dari kelas transaksi yang sudah didefinisikan.
+1.	Membuat ID transaksi. Dilakukan dengan membuat object dari kelas transaksi yang sudah didefinisikan.
 2.	Memasukkan data transaksi yang berisi nama, jumlah, dan harga peritem
 3.	Mengupdate data transaksi dengan:
-a.	Update nama, jika terjadi kesalahan saat input nama item.
-b.	Update jumlah jika terjadi kesalahan saat input jumlah item.
-c.	Update harga jika terdai kesalahan saat input harga per item.
+    - Update nama, jika terjadi kesalahan saat input nama item.
+    - Update jumlah jika terjadi kesalahan saat input jumlah item.
+    - Update harga jika terdai kesalahan saat input harga per item.
 4.	Membatalkan data transaksi dengan pilihan:
-a.	Menghapus salah satu item
-b.	Menghapus semuanya data transaksi
+    - Menghapus salah satu item
+    - Menghapus semuanya data transaksi
 5.	Melakukan pengecekan terhadap data transaksi.
 6.	Menghitung total belanja dengan ketentuan diskon sebagai berikut:
     - Jika totalbelanja di atas Rp200.000 maka akan mendapatkan diskon 5%.
@@ -48,7 +47,7 @@ b.	Menghapus semuanya data transaksi
 
 - ` def check_order(self):`Fungsi untuk mengecek apakah data transaksi yang diinput sudah benar atau belum. Pengecekan dilakukan dengan mengecek apakah nama yang diinput bukan string kosong " " dan jumlah serta harga per item harus dalam tipe data integer. 
 
-- `total_price(self):`  Fungsi untuk menghitung total belanja yang harus dibayar. 
+- `def total_price(self):`  Fungsi untuk menghitung total belanja yang harus dibayar. 
     Dengan memberikan diskon dengan ketentuan:
     - Jika totalbelanja di atas Rp200.000 maka akan mendapatkan diskon 5%.
     - Jika totalbelanja di atas Rp300.000 maka akan mendapatkan diskon 8%.
